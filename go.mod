@@ -12,3 +12,5 @@ require (
 )
 
 require golang.org/x/text v0.14.0 // indirect
+
+replace github.com/braydonk/yaml => github.com/abicky/yaml v0.0.0-20241231084819-74f0277b8381
